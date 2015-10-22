@@ -1,7 +1,6 @@
 /*  Book84083 class has following properties book title (string) ,ISBN code (string) ,publisher (string) ,publish year, *number of pages
  *author names list (use Array List of string), reviewer names list (use Array List of string) , three parameterized constructor for intialization and two methods
- *@Author: Aparna Kulkarni
- *Student ID: 84083
+ *@Author: Aparna 
  * 
  */
 
