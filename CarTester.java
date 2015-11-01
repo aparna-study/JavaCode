@@ -1,7 +1,7 @@
 /**
  Description:This is Tester class and has main method to check status of all the classes which inherits Vehicle class
  Author: Aparna Kulkarni
- Date: 17th December 2014
+
  */
 package edu.itu.aparnakulkarni;
 
